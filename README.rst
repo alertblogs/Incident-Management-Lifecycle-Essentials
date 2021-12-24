@@ -1,40 +1,97 @@
-AlertOps Expert Guidance
+Incident Management Lifecycle Essentials
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Share on pocket
+Pocket
+Share on print
+Print / Download
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+If an incident occurs, do you know how to manage this issue from start to finish? Incident management is complex, particularly for IT professionals who face a sudden network or system outage that impacts business operations. But for IT professionals who understand the ins and outs of incident management, they can take the guesswork out of complex incidents.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+In many instances, IT professionals can follow a standard incident lifecycle to identify and resolve problems. This lifecycle includes six stages:
 
-Automate Processes
+    New: A service desk has received information about an incident but has not yet assigned it to a service desk agent.
+    Assigned: An incident is assigned to a service desk agent.
+    In-Progress: A service desk agent is searching for ways to resolve an assigned incident.
+    On-Hold: Incident response is temporarily suspended; this may occur if a user or third-party requires additional information and ensures service-level agreement (SLA) response       requirements continue to be met.
+    Resolved: A service desk verifies an incident has been resolved and an affected service has returned to SLA levels.
+    Closed: An incident is fully resolved, and no further actions are required.
+
+The incident lifecycle seems simple, but a diligent team of IT professionals must be ready to follow each step. Without proper incident management and response, a minor incident may turn into a major catastrophe. And as a result, this incident could cause severe problems for a business, its employees and its customers.
+A Closer Look at the Standard Incident Management Process
+
+In addition to the incident management lifecycle, many incident management teams follow a standard process to limit the impact of downtime, outages and other critical incidents. This process includes the following steps:
+
+    Identification: Involves the initial detection of an incident.
+    Logging: Involves tracking incident information and logging incident details, including the name of the person reporting an incident, the date and time of an incident and other pertinent information.
+    Categorization: Involves the placement of an incident into an appropriate category and subcategory.
+    Prioritization: Involves incident assessment and an evaluation of an incident’s impact on a business and its key stakeholders.
+    Diagnosis: Involves the creation of an incident hypothesis and what may be done to resolve an incident.
+    Escalation: Involves requests for additional support; front-line support teams are required to gather and log incident information for immediate escalation.
+    Resolution: Involves the use of necessary steps and processes to resolve an incident.
+    Closure: Involves the return of an incident to a service desk for closure. After an incident is closed, a service desk will notify all affected stakeholders.
+
+To ensure full incident resolution, an incident management team must define the steps required to handle an incident, along with the sequence and responsibilities of all parties involved. Then, when an incident occurs, the team can assign a category and priority level to an incident and provide status updates to stakeholders that describe actions it is taking to close or resolve the incident. If incidents frequently reach mission-critical status, an incident management team may want to invest in an incident management platform to automate processes and reduce the time it takes to resolve issues.
+
+Introducing the ITIL Incident Management Lifecycle
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+The Information Technology Infrastructure Library (ITIL) provides a framework of best practices for delivering IT services, including an incident management lifecycle designed to help IT professionals quickly restore service operations.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+ITIL’s incident management lifecycle includes a set of instructions that encourages IT professionals to work together to ensure effective IT service delivery. Plus, the lifecycle is flexible, and it can be structured in a way that meets the needs of all organizations, regardless of size or industry.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Now, let’s take a closer look at each stage of the ITIL incident management lifecycle.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    Incident Identification
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+At this point, IT professionals identify an incident. The incident identification phase sometimes occurs before an incident affects end users. Or, in other instances, IT professionals find out about an incident after an impacted user reports it to a service desk.
 
-1 Red Canary 2021 Threat Detection Report
+The incident identification phase kicks off the incident management lifecycle, and as soon as IT professionals learn about an incident, they must find ways to minimize its impact. Otherwise, an incident may lead to downtime, outages and other costly, time-intensive problems that put a company, its customers and its employees in danger.
+
+    Incident Logging
+
+The incident logging stage involves the classification and prioritization of incidents. First, an incident is logged with relevant details and classified based on appropriate categories. This enables the incident to be assigned and escalated to the right IT team members. The incident then is assigned priority based on how, when and by whom it will be handled. Priority is determined based on urgency – such as the number of users that an incident affects or an incident’s potential impact on a business and its key stakeholders – and how quickly it must be addressed.
+
+IT professionals require fast, efficient incident logging and tracking, or these professionals risk missing out on crucial incident details. Perhaps worst of all, if incidents are not logged properly, a small incident may quickly get out of hand. Because if the right IT professionals fail to receive incident alerts or do not prioritize a critical incident, a business, its customers and its employees may suffer the consequences.
+
+    Incident Investigation and Diagnosis
+
+IT professionals will investigate an incident to find out exactly what happened and how the problem can be mitigated. These professionals may use their skills and expertise, information from past incidents and other resources to diagnose an incident. Then, IT professionals can determine the best course of action to resolve the problem.
+
+There is no surefire cause of all incidents. This means IT professionals must review all aspects of an incident to diagnose the issue. Also, IT professionals often work together to brainstorm potential incident solutions. 
+
+    Incident Assignment or Escalation
+
+Generally, a service desk technician is the first to respond to an incident. If he or she is unable to resolve the incident, second- or third-level support staff may be required for full resolution.
+
+A service desk technician strives to do everything possible to resolve an incident. Despite his or her best efforts, however, additional support staff may be needed. In this scenario, a business requires escalation protocols to ensure an incident alert is escalated to the right IT professionals, at the right time. Furthermore, an alert monitoring system with automatic escalations may be used to speed up the escalation process. This system automatically escalates incidents based on who is available, enabling second- or third-level support staff to quickly respond to escalations.
+
+    Incident Resolution
+
+After IT professionals discover an incident solution, they will implement the solution and test it accordingly. This ensures a solution delivers the desired results and helps a company limit the effects of downtime or an outage.
+
+Ultimately, comprehensive testing allows IT professionals to determine whether a solution enables a company to fully manage an incident. If tests reveal an incident solution fails to deliver the desired results, IT professionals must consider alternatives.
+
+    Incident Closure
+
+When an incident is fully resolved, the issue is closed. A service desk technician must ensure all incident details are properly tracked. With this information at their disposal, IT professionals may be better equipped than ever before to speed up and improve future incident management and response.
+
+Additionally, IT professionals often look back at an incident and try to learn from it. IT professionals frequently search for ways to enhance their incident management processes and systems. Therefore, IT professionals must perform diligent incident tracking and collect as much information about an incident as they can. Incident details may prove to be essential, as they can help IT professionals find innovative ways to bolster their incident management processes and systems.
+
+    User Satisfaction Survey
+
+A user satisfaction survey enables IT professionals to obtain actionable feedback following an incident’s closure. It also helps IT professionals collaborate with customers, employees and other key stakeholders who may have been impacted by an incident and find out how they felt about an IT team’s incident management efforts.
+
+IT professionals often use phone or online surveys to collect user feedback. ITIL notes IT professionals should always explain the purpose of a user satisfaction survey, randomly distribute it, keep the survey short and clearly state all survey questions. This ensures IT professionals can make it simple for survey respondents to share their feedback. Moreover, IT professionals should evaluate user satisfaction survey results, share them with one another and use the results to drive ongoing incident management process and system improvements.
+
+The ITIL incident management lifecycle offers a valuable guide for IT professionals. Yet the lifecycle alone is merely a starting point for IT professionals who want to streamline their incident management efforts.
+
+Using an alert monitoring system in combination with the ITIL incident management lifecycle can make a world of difference for IT professionals. An alert tracking system helps IT professionals collect incident data and monitor an incident’s progress. The system also enables IT professionals to maintain consistent communications with one another until an incident is closed. And once an incident is resolved, IT professionals can produce reports and obtain the insights they need to drive meaningful incident management improvements.
+
+Take advantage of an alert monitoring system and the ITIL incident management lifecycle. Together, these tools can help IT professionals enhance their incident management efforts both now and in the future
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/incident-management-lifecycle-essentials/
 
 Read more:
 ====
