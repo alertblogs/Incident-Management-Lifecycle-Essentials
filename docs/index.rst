@@ -1,84 +1,100 @@
-Managed Service Provider – How AlertOps Helps MSP Scale Digital Transformation.
+Incident Management Lifecycle Essentials
 ========
 
- 
- The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them.
+Share on pocket
+Pocket
+Share on print
+Print / Download
 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+If an incident occurs, do you know how to manage this issue from start to finish? Incident management is complex, particularly for IT professionals who face a sudden network or system outage that impacts business operations. But for IT professionals who understand the ins and outs of incident management, they can take the guesswork out of complex incidents.
 
-Not One Size Fits All
-========
+In many instances, IT professionals can follow a standard incident lifecycle to identify and resolve problems. This lifecycle includes six stages:
 
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+    New: A service desk has received information about an incident but has not yet assigned it to a service desk agent.
+    Assigned: An incident is assigned to a service desk agent.
+    In-Progress: A service desk agent is searching for ways to resolve an assigned incident.
+    On-Hold: Incident response is temporarily suspended; this may occur if a user or third-party requires additional information and ensures service-level agreement (SLA) response       requirements continue to be met.
+    Resolved: A service desk verifies an incident has been resolved and an affected service has returned to SLA levels.
+    Closed: An incident is fully resolved, and no further actions are required.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+The incident lifecycle seems simple, but a diligent team of IT professionals must be ready to follow each step. Without proper incident management and response, a minor incident may turn into a major catastrophe. And as a result, this incident could cause severe problems for a business, its employees and its customers.
+A Closer Look at the Standard Incident Management Process
 
-Automate Processes
-========
+In addition to the incident management lifecycle, many incident management teams follow a standard process to limit the impact of downtime, outages and other critical incidents. This process includes the following steps:
 
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+    Identification: Involves the initial detection of an incident.
+    Logging: Involves tracking incident information and logging incident details, including the name of the person reporting an incident, the date and time of an incident and other pertinent information.
+    Categorization: Involves the placement of an incident into an appropriate category and subcategory.
+    Prioritization: Involves incident assessment and an evaluation of an incident’s impact on a business and its key stakeholders.
+    Diagnosis: Involves the creation of an incident hypothesis and what may be done to resolve an incident.
+    Escalation: Involves requests for additional support; front-line support teams are required to gather and log incident information for immediate escalation.
+    Resolution: Involves the use of necessary steps and processes to resolve an incident.
+    Closure: Involves the return of an incident to a service desk for closure. After an incident is closed, a service desk will notify all affected stakeholders.
 
-Clarity
-========
+To ensure full incident resolution, an incident management team must define the steps required to handle an incident, along with the sequence and responsibilities of all parties involved. Then, when an incident occurs, the team can assign a category and priority level to an incident and provide status updates to stakeholders that describe actions it is taking to close or resolve the incident. If incidents frequently reach mission-critical status, an incident management team may want to invest in an incident management platform to automate processes and reduce the time it takes to resolve issues.
 
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
- 
-Insightful Notifications
-========
-
-
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-========
-
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection ReportWhat are the incident management capabilities that Managed Service Provider (MSPs) need to help their customers digitally transform?
-
-In an era where speed, productivity, and user experiences matter most what are the incident management capabilities managed service provider  need most to grow, transform and mature their digital operations, processes and serve more organizations, faster and more efficiently.
-
-Many of today’s enterprises still have operations that are largely manual, reactive and lack the in-house resources and expertise to undertake a digital transformation initiative. To succeed in our digital world, businesses need to become real-time, automated, and proactive. And this is where MSP’s come in, they bring a rich mix of solution, industry vertical and geographic focus, and expertise to serve unique and complex needs across a variety of DevOps, ITOps, CloudOps, Customer Service, Security Operations, and Industrial Ops business areas. Today more than ever it is critical that all businesses move from traditional incident management to digital operations and automated-driven transformation.
-
-The AlertOps Platform helps MSP’s optimize the customer experience processes with world class end-to-end issue resolution capabilities. Our MSP customers rely on the AlertOps Platform with its industry-leading capabilities to help across all parts of real-time digital operations, including detecting and understanding incidents, responding, orchestrating, and automating real-time work, as well as providing an analytic-based approach to process and operations improvements.
-
-Capabilities that help managed service provider of all sizes better meet end customer needs with real-time, automated incident management. Ensuring continuous service delivery for the customers they serve, with advanced features to help IT teams detect and respond to outages and better manage their digital operations across the organization
-
-Key capabilities that help MSP’s deliver exceptional incident response management:
-managed service provider
-
-Automation To Accelerate Incident Resolution
+Introducing the ITIL Incident Management Lifecycle
 ====
-Resolve major incidents at light-speed with improved granularity and flexibility. Reduce Mean Time to Repair (MTTR) – with finely tuned options and enhanced capabilities. For example, when an incident occurs, automatically open a ticket in ServiceNow, create a Slack Channel, update your Status Page, and notify relevant teams team based on the type of incident – simultaneously. Each business service can require a specific and unique service level agreement SLA requiring a specific workflow and notification process. With the technology that helps support teams work in concert delivering critical business services and preventing SLA breaches.
+The Information Technology Infrastructure Library (ITIL) provides a framework of best practices for delivering IT services, including an incident management lifecycle designed to help IT professionals quickly restore service operations.
 
-Easily Create Complex SLA-based Workflows
+ITIL’s incident management lifecycle includes a set of instructions that encourages IT professionals to work together to ensure effective IT service delivery. Plus, the lifecycle is flexible, and it can be structured in a way that meets the needs of all organizations, regardless of size or industry.
+
+Now, let’s take a closer look at each stage of the ITIL incident management lifecycle.
+
+    Incident Identification
+
+At this point, IT professionals identify an incident. The incident identification phase sometimes occurs before an incident affects end users. Or, in other instances, IT professionals find out about an incident after an impacted user reports it to a service desk.
+
+The incident identification phase kicks off the incident management lifecycle, and as soon as IT professionals learn about an incident, they must find ways to minimize its impact. Otherwise, an incident may lead to downtime, outages and other costly, time-intensive problems that put a company, its customers and its employees in danger.
+
+    Incident Logging
+
+The incident logging stage involves the classification and prioritization of incidents. First, an incident is logged with relevant details and classified based on appropriate categories. This enables the incident to be assigned and escalated to the right IT team members. The incident then is assigned priority based on how, when and by whom it will be handled. Priority is determined based on urgency – such as the number of users that an incident affects or an incident’s potential impact on a business and its key stakeholders – and how quickly it must be addressed.
+
+IT professionals require fast, efficient incident logging and tracking, or these professionals risk missing out on crucial incident details. Perhaps worst of all, if incidents are not logged properly, a small incident may quickly get out of hand. Because if the right IT professionals fail to receive incident alerts or do not prioritize a critical incident, a business, its customers and its employees may suffer the consequences.
+
+    Incident Investigation and Diagnosis
+
+IT professionals will investigate an incident to find out exactly what happened and how the problem can be mitigated. These professionals may use their skills and expertise, information from past incidents and other resources to diagnose an incident. Then, IT professionals can determine the best course of action to resolve the problem.
+
+There is no surefire cause of all incidents. This means IT professionals must review all aspects of an incident to diagnose the issue. Also, IT professionals often work together to brainstorm potential incident solutions. 
+
+    Incident Assignment or Escalation
+
+Generally, a service desk technician is the first to respond to an incident. If he or she is unable to resolve the incident, second- or third-level support staff may be required for full resolution.
+
+A service desk technician strives to do everything possible to resolve an incident. Despite his or her best efforts, however, additional support staff may be needed. In this scenario, a business requires escalation protocols to ensure an incident alert is escalated to the right IT professionals, at the right time. Furthermore, an alert monitoring system with automatic escalations may be used to speed up the escalation process. This system automatically escalates incidents based on who is available, enabling second- or third-level support staff to quickly respond to escalations.
+
+    Incident Resolution
+
+After IT professionals discover an incident solution, they will implement the solution and test it accordingly. This ensures a solution delivers the desired results and helps a company limit the effects of downtime or an outage.
+
+Ultimately, comprehensive testing allows IT professionals to determine whether a solution enables a company to fully manage an incident. If tests reveal an incident solution fails to deliver the desired results, IT professionals must consider alternatives.
+
+    Incident Closure
+
+When an incident is fully resolved, the issue is closed. A service desk technician must ensure all incident details are properly tracked. With this information at their disposal, IT professionals may be better equipped than ever before to speed up and improve future incident management and response.
+
+Additionally, IT professionals often look back at an incident and try to learn from it. IT professionals frequently search for ways to enhance their incident management processes and systems. Therefore, IT professionals must perform diligent incident tracking and collect as much information about an incident as they can. Incident details may prove to be essential, as they can help IT professionals find innovative ways to bolster their incident management processes and systems.
+
+    User Satisfaction Survey
+
+A user satisfaction survey enables IT professionals to obtain actionable feedback following an incident’s closure. It also helps IT professionals collaborate with customers, employees and other key stakeholders who may have been impacted by an incident and find out how they felt about an IT team’s incident management efforts.
+
+IT professionals often use phone or online surveys to collect user feedback. ITIL notes IT professionals should always explain the purpose of a user satisfaction survey, randomly distribute it, keep the survey short and clearly state all survey questions. This ensures IT professionals can make it simple for survey respondents to share their feedback. Moreover, IT professionals should evaluate user satisfaction survey results, share them with one another and use the results to drive ongoing incident management process and system improvements.
+
+The ITIL incident management lifecycle offers a valuable guide for IT professionals. Yet the lifecycle alone is merely a starting point for IT professionals who want to streamline their incident management efforts.
+
+Using an alert monitoring system in combination with the ITIL incident management lifecycle can make a world of difference for IT professionals. An alert tracking system helps IT professionals collect incident data and monitor an incident’s progress. The system also enables IT professionals to maintain consistent communications with one another until an incident is closed. And once an incident is resolved, IT professionals can produce reports and obtain the insights they need to drive meaningful incident management improvements.
+
+Take advantage of an alert monitoring system and the ITIL incident management lifecycle. Together, these tools can help IT professionals enhance their incident management efforts both now and in the future
+
+source:
 ====
-Fully automate incident management workflows based on rules, such as severity (P1, P2, P3, P4) manage outage communication using one of our pre-built Incident Response Templates that feature custom messaging for tech responders, stakeholders, and customers, based on their role. Orchestrate and automate your ticket lifecycle with bi-directional integrations between AlertOps and your ITSM tools. And for major incidents, the platform can automatically coordinate resolvers and mobilize a war room via web CD-Collaboration, toolchain-automation, conference bridge, chat, or API.
+https://alertops.com/incident-management-lifecycle-essentials/
 
-Tools To Collaborate Seamlessly and Mobilize the Right Resources, In Real Time, Every Time
-=====
-The AlertOps Platform helps your organization collaborate seamlessly across Engineering/Operations and Customer Service to proactively manage customer issues. It is a platform designed from the ground up to ensure smooth management of agreed to SLAs across customer incidents with full case ownership and automated escalation to mobilize the right resources, in real time, every time.
-
-Proven Technology to Keep-Pace with Customer Expectations
-=====
-Today, customers expect and demand immediate action when the services they depend on are impacted. And this is where AlertOps helps by enabling rapid and automated escalation policies, bidirectional communications to quickly mobilize and activate the right response. Fully leveraging AlertOps technology to drive loyalty, improve NPS/CSAT scores, and exceed customer SLAs with faster, cross-organizational alignment across response teams.
-
-Cut Through the Noise and Chart the Fastest Path to Resolution
-=====
-Events are more than binary data – they take place within a meaningful context, for this AlertOps offers industry-leading alert intelligence filtering enabling you to group, suppress and delay alerts based on your own custom preferences. Cut the noise, focus on what matters. Using our dynamic routing match and escalate alerts to the right team based on detailed source data (source, issue type, skills, customer, etc.)
-
-Schedule a demonstration today or learn more about AlertOps for managed service providers.
-
-Source:
-========
-https://alertops.com/managed-service-provider/
-
-readmore:
-========
+Read more:
+====
 
 https://alertops.com/noc-dashboard-examples/
 https://alertops.com/major-outage-black-friday/
@@ -95,3 +111,152 @@ https://alertops.com/devops-ci-cd/
 https://alertops.com/on-call-management/
 https://alertops.com/covid-remote-team/
 https://alertops.com/improve-critical-incident-management/
+https://alertops.com/devops-barriers/
+https://alertops.com/devops-periodic-table/
+https://alertops.com/alertops-integration-with-amazon-web-service-cloud-watch/
+https://alertops.com/alertops-and-appdynamics-integration/
+https://alertops.com/catchpoint-poor-web-performance-blog/
+https://alertops.com/alertops-and-icinga-integration/
+https://alertops.com/alertops-and-jira-integration/
+https://alertops.com/alertops-and-librato-integration/
+https://alertops.com/alertops-and-server-density-integration/
+https://alertops.com/alertops-announces-new-coo/
+https://alertops.com/alertops-announces-playbook-automation-focusing-on-critical-enterprise-needs-in-fast-growing-incident-response-market/
+https://alertops.com/alertops-monitorama/
+https://alertops.com/alertops-announces-connectwise-manage-integration/
+https://alertops.com/alertops-automation/
+https://alertops.com/alertops-expert-guidance/
+https://alertops.com/alertops-flexibility/
+https://alertops.com/alertops-and-apteligent-integration/
+https://alertops.com/think-youre-cut-out-for-hipchat-integration/
+https://alertops.com/why-we-love-slack-integration-and-you-should-too/
+https://alertops.com/alertops-microsoft-azure-integration/
+https://alertops.com/alertops-pingdom-integration/
+https://alertops.com/pagerduty-comparison-alert-management/
+https://alertops.com/pagerduty-comparison-analytics/
+https://alertops.com/pagerduty-comparison-incidents/
+https://alertops.com/pagerduty-comparison-alert-templates/
+https://alertops.com/pagerduty-comparison-incident-management-workflow/
+https://alertops.com/pagerduty-comparison-incident-api/
+https://alertops.com/pagerduty-sla-incident-management/
+https://alertops.com/pagerduty-comparison-flexibility/
+https://alertops.com/pagerduty-comparison-itil-mttr/
+https://alertops.com/alertops-paging-for-enterprise/
+https://alertops.com/covid-19-business-continuity-alerting-plan/
+https://alertops.com/alertops-service-management-for-enterprise/
+https://alertops.com/alertops-software-appoints/
+https://alertops.com/alertops-unveils-heartbeat-monitoring/
+https://alertops.com/application-performance-monitoring/
+https://alertops.com/best-practices-incident-resolution/
+https://alertops.com/major-incident-management-best-practices/
+https://alertops.com/on-call-rotation/
+https://alertops.com/devops-team/
+https://alertops.com/best-practices-high-performing-teams/
+https://alertops.com/cost-of-downtime/
+https://alertops.com/alertops-paging-feature/
+https://alertops.com/collaboration-key/
+https://alertops.com/covid-pandemic-business-continuity/
+https://alertops.com/major-critical-incidents/
+https://alertops.com/devops-automation/
+https://alertops.com/devops-vs-agile/
+https://alertops.com/reduce-downtime-digital-retail/
+https://alertops.com/do-you-need-different-slas-for-each-customer/
+https://alertops.com/msp-backup/
+https://alertops.com/noc-data-center/
+https://alertops.com/team-management/
+https://alertops.com/gdpr-devops-team/
+https://alertops.com/alertops-and-service-now-integration/
+https://alertops.com/standardized-incident-response-process/
+https://alertops.com/alertops-and-uptime-robot-integration/
+https://alertops.com/msps-cloud-services/
+https://alertops.com/alert-fatigue-teams/
+https://alertops.com/continuous-delivery-impacts-devops/
+https://alertops.com/outage-cost/
+https://alertops.com/no-code-integrations/
+https://alertops.com/on-call-schedule/
+https://alertops.com/choose-incident-management-tool/
+https://alertops.com/communicate-customers-outage/
+https://alertops.com/create-incident-response-playbook/
+https://alertops.com/building-management-system/
+https://alertops.com/how-will-you-notify-your-customers-when-a-hipaa-data-breach-occurs/
+https://alertops.com/proactive-vs-reactive-teams/
+https://alertops.com/do-you-need-to-notify-your-customers-when-personal-information-is-leaked-due-to-a-data-breach-2/
+https://alertops.com/do-your-strategic-partners-know-when-you-have-a-critical-outage/
+https://alertops.com/replace-opsgenie-connectwise-manage/
+https://alertops.com/reach-the-right-person/
+https://alertops.com/devops-roadmap/
+https://alertops.com/improve-itops-collaboration-and-reduce-mttr-with-splunk/
+https://alertops.com/do-you-need-to-notify-your-customers-when-personal-information-is-leaked-due-to-a-data-breach/
+https://alertops.com/incident-communication-business-partners/
+https://alertops.com/incident-management-lifecycle-essentials/
+https://alertops.com/incident-management-metrics/
+https://alertops.com/incident-management-process/
+https://alertops.com/incident-post-mortem/
+https://alertops.com/major-incident-response-communications-plan/
+https://alertops.com/incident-response-quality-quantity/
+https://alertops.com/alertops-and-prtg-integration/
+https://alertops.com/incident-management-schedule/
+https://alertops.com/itnation/
+https://alertops.com/it-process-automation-for-managed-service-providers/
+https://alertops.com/implement-it-service-alerting/
+https://alertops.com/check-itsm-article-rick-leopoldi/
+https://alertops.com/alertops-and-copperegg-integration/
+https://alertops.com/how-do-you-notify-customers-when-there-is-a-data-security-breach/
+https://alertops.com/alertops-and-solarwinds-integration/
+https://alertops.com/incident-management-predictions-2018/
+https://alertops.com/msp-automation/
+https://alertops.com/live-inbound-call-routing/
+https://alertops.com/managed-service-provider/
+https://alertops.com/modern-itsm-solutions-creativity-incident-response/
+https://alertops.com/modern-it-flexibility-in-incident-response/
+https://alertops.com/msp-security/
+https://alertops.com/mttd-vs-mttf-vs-mtbf-vs-mttr/
+https://alertops.com/noc-best-practices/
+https://alertops.com/no-code-for-developers/
+https://alertops.com/noc-vs-soc/
+https://alertops.com/outage-or-breach/
+https://alertops.com/best-pagerduty-alternative/
+https://alertops.com/alertops-and-errorception-integration/
+https://alertops.com/discover-how-powerful-the-new-relic-integration-is/
+https://alertops.com/catchpoint-rage-and-lessons-from-outages/
+https://alertops.com/alertops-and-netcrunch-integration/
+https://alertops.com/alertops-and-nodeping-integration/
+https://alertops.com/spiceworks-our-spiciest-integration/
+https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-runscope-integration/
+https://alertops.com/stakeholder-communications-plan/
+https://alertops.com/noc-team-engineers/
+https://alertops.com/eliminate-alert-fatigue/
+https://alertops.com/budget-technical-debt-reduction/
+https://alertops.com/downtime-costs/
+https://alertops.com/live-inbound-call-routing-2/
+https://alertops.com/alertops-team-management-for-enterprises/
+https://alertops.com/alertops-better-than-pagerduty-2/
+https://alertops.com/alertops-better-than-pagerduty-10-2/
+https://alertops.com/alertops-better-than-pagerduty-3/
+https://alertops.com/alertops-better-than-pagerduty-4/
+https://alertops.com/alertops-better-than-pagerduty-5/
+https://alertops.com/alertops-better-than-pagerduty-6/
+https://alertops.com/alertops-better-than-pagerduty-7/
+https://alertops.com/alertops-better-than-pagerduty-8/
+https://alertops.com/alertops-better-than-pagerduty-9/
+https://alertops.com/network-operations-center/
+https://alertops.com/blameless-post-mortems/
+https://alertops.com/what-is-devops/
+https://alertops.com/internet-of-things/
+https://alertops.com/infrastructure-management/
+https://alertops.com/it-monitoring/
+https://alertops.com/on-call/
+https://alertops.com/it-operations-management/
+https://alertops.com/itil-incident-management/
+https://alertops.com/mttr/
+https://alertops.com/proactive-incident-management/
+https://alertops.com/why-alertops-best-pagerduty-alternative/
+https://alertops.com/alertops-workflows-3/
+https://alertops.com/itsm/
+https://alertops.com/benefits-incident-management-software-retailers/
+https://alertops.com/alertops-slas/
+https://alertops.com/incident-management-software/
+https://alertops.com/do-you-need-to-meet-sla-targets/
+https://alertops.com/alertops-integration-features/
+https://alertops.com/black-friday-win/
